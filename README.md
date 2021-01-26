@@ -25,6 +25,6 @@ Here is the interface:
 
 ![screenshot](doc/screenshot.jpg?raw=true "Screenshot")
 
-And here is an example mosaic created by [Emily Bhargava](https://emily.glassandlead.com) (of the song "Red Red Wine"):
+And here is an example mosaic created by [Emily Bhargava](https://emily.glassandlead.com):
 
-![screenshot](doc/red-mosaic.jpg?raw=true "Red Red Wine Mosaic")
+![mosaics](doc/mosaics.jpg?raw=true "Some of the mosaics")
